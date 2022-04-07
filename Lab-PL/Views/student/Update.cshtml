@@ -1,0 +1,25 @@
+﻿@using lab_Model
+@model Student
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+    ViewBag.title = "Update";
+}
+
+<div class="bg-light">
+    <form action="Update" method="post" class="bg-light ms-3 mt-3 w-25">
+        @Html.HiddenFor(model => model.ID)
+        @Html.DisplayNameFor(i => i.Name)
+        @Html.TextBox("name", null, new { @class = "form-control", placeholder = "Enter Your name", required = "required" })
+        @Html.DisplayNameFor(i => i.Age)
+        @Html.TextBox("age", null, new { @class = "form-control", placeholder = "Enter Your Age", required = "required" })
+        @Html.DisplayNameFor(i => i.Grade)
+        @Html.TextBox("grade", null, new { @class = "form-control", placeholder = "Enter Your Grade", required = "required" })
+        <br />
+        <button class="btn btn-danger" type="submit">Update</button>
+    </form>
+</div>
+@section mysection
+{
+    <h2>Update Existe Student </h2>
+}

@@ -1,0 +1,9 @@
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\bin\Debug\Lab-ViewModels.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\bin\Debug\Lab-ViewModels.pdb
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\bin\Debug\lab-Model.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\bin\Debug\lab-Model.pdb
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\obj\Debug\Lab-ViewModels.csproj.AssemblyReference.cache
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\obj\Debug\Lab-ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\obj\Debug\Lab-ViewModels.csproj.CopyComplete
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\obj\Debug\Lab-ViewModels.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-ViewModels\obj\Debug\Lab-ViewModels.pdb

@@ -1,0 +1,58 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title>@ViewBag.title  </title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+
+            <a class="navbar-brand" href="#">Mo2men</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+
+                <ul class="navbar-nav">
+                    @if (Session["userName"] != null)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="~/student/index/"><i class="fa fa-fw fa-home"></i>Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/student/index/">Details</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="~/user/logout/">Logout</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year Welcome Moamen</p>
+            @RenderSection("mysection", false)
+        </footer>
+        <script src="~/Scripts/jquery-1.8.0.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    </div>
+</body>
+</html>

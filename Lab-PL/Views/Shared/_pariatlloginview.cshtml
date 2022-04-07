@@ -1,0 +1,29 @@
+﻿@using Lab_ViewModels
+@model LoginData
+
+<table>
+    <tr>
+        <td>@Html.LabelFor(i => i.User_Name)</td>
+        <td>@Html.TextBoxFor(i => i.User_Name, new { @class = "form-control", placeholder = "User Name" })</td>
+        <td>@Html.ValidationMessageFor(i => i.User_Name)</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>@Html.LabelFor(i => i.password)</td>
+        <td>@Html.PasswordFor(i => i.password, new { @class = "form-control", placeholder = "Password" })</td>
+        <td>@Html.ValidationMessageFor(i => i.password)</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>@Html.CheckBox("remeber") rember me</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="submit" value="Login" class="btn btn-primary" /></td>
+        <td>
+            @if (ViewBag.mess != null)
+            {@ViewBag.mess}
+        </td>
+    </tr>
+</table>

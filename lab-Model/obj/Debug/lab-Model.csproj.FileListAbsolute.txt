@@ -1,0 +1,5 @@
+C:\Users\moamn\source\repos\LabDay5-unitofwork\lab-Model\bin\Debug\lab-Model.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\lab-Model\bin\Debug\lab-Model.pdb
+C:\Users\moamn\source\repos\LabDay5-unitofwork\lab-Model\obj\Debug\Lab-Model.csproj.CoreCompileInputs.cache
+C:\Users\moamn\source\repos\LabDay5-unitofwork\lab-Model\obj\Debug\lab-Model.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\lab-Model\obj\Debug\lab-Model.pdb

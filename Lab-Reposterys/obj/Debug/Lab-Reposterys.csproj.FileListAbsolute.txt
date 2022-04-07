@@ -1,0 +1,17 @@
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\Lab-Reposterys.dll.config
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\Lab-Reposterys.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\Lab-Reposterys.pdb
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\EntityFramework.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\Lab-Data.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\lab-Model.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\Lab-Data.pdb
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\Lab-Data.dll.config
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\lab-Model.pdb
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\EntityFramework.xml
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\obj\Debug\Lab-Reposterys.csproj.AssemblyReference.cache
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\obj\Debug\Lab-Reposterys.csproj.CoreCompileInputs.cache
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\obj\Debug\Lab-Reposterys.csproj.CopyComplete
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\obj\Debug\Lab-Reposterys.dll
+C:\Users\moamn\source\repos\LabDay5-unitofwork\Lab-Reposterys\obj\Debug\Lab-Reposterys.pdb
